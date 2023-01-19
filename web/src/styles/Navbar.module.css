@@ -1,0 +1,11 @@
+.container {
+    width: 100vw;
+    height: 80px;
+    position: absolute;
+    background-color: transparent;
+    z-index: 1;
+    top: 0;
+}
+.logo {
+
+}
